@@ -3,6 +3,11 @@
 ## Overview
 The Energy Consumption Calculator is a web-based application built with Flask that allows users to calculate their electricity consumption and cost based on various household devices. Users can input details about the number of devices they use, their usage time, and power consumption to estimate their energy consumption and the associated cost.
 
+## Sample screenshots
+![Output1](./eb_output.png)
+![Output2](./eb_output2.png)
+
+
 ## Features
 - Calculate energy consumption and cost based on the usage of household devices.
 - Users can select from a list of common household devices or add custom devices.
